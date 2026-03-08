@@ -1,6 +1,16 @@
-<<<<<<< HEAD
-"# Login_Form_System" 
-=======
 # Login_Form_System
-Login Form Using Java, JDBC, Servlet,JSP.
->>>>>>> c3632320a677ecbe3344b9aaeb0a8e781a0d1e73
+Java Login System using JSP, Servlet and JDBC
+
+Features
+- User Registration
+- Login Authentication
+- Session Handling
+- Logout
+
+Technologies
+- Java
+- JSP
+- Servlet
+- JDBC
+- MySQL
+- Apache Tomcat
